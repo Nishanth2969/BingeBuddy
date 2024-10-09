@@ -1,7 +1,7 @@
-# WhatToWatch - Backend
+# BingeBuddy - Backend
 
 ## About
-WhatToWatch application has a scalable and resilient microservices architecture based backend which uses Amazon API Gateway, Lambda functions, Dynamo DB, Amazon RDS, Amazon SQS, Amazon SNS and Amazon Personalize. 
+BingeBuddy application has a scalable and resilient microservices architecture based backend which uses Amazon API Gateway, Lambda functions, Dynamo DB, Amazon RDS, Amazon SQS, Amazon SNS and Amazon Personalize. 
 
 
 ## Lambda Functions and associated API calls
